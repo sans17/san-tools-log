@@ -3,19 +3,13 @@
 
 	<groupId>us.ligusan</groupId>
 	<artifactId>san-tools-log</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.10.0</version>
 
 	<properties>
-		<build.java.version>10</build.java.version>
+		<build.java.version>16</build.java.version>
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.apache.commons</groupId>
-			<artifactId>commons-lang3</artifactId>
-			<version>3.7</version>
-		</dependency>
-
 		<dependency>
 			<groupId>aopalliance</groupId>
 			<artifactId>aopalliance</artifactId>
